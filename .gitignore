@@ -1,0 +1,9 @@
+# Photos capturees (les chemins sont relatifs a la racine du depot,
+# toujours avec des slashs : git traite l'antislash comme un echappement)
+captures/
+F1/
+F2/
+# Fichiers de travail, non destines au depot
+camera_gui_original_backup.py
+test_camera_gui.py
+__pycache__/
